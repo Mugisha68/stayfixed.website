@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(sm.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+input{
+    border-radius: 20px;
+    color: transparent;
+}
+.sam{
+    border: 3px solid black;
+    border-radius: 50px;
+    margin-right: 400px;
+    margin-left: 400px;
+    height: 550px;
+    background-color: rgb(13, 234, 234);
+}
+button:hover{
+    border-radius:20px ;
+    transition: .05s;
+    background-color: rgb(195, 255, 0);
+}
+button {
+    border-radius: 20px;
+    background-color: rgb(9, 246, 52);
+    width: 80px;
+    float:margin-right;
+}
